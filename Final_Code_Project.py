@@ -4,7 +4,7 @@ import time
 import random
 import webbrowser
 
-# If video URL file does not exist, create one
+# Dr. Thomas Personal Alarm Clock
 if not os.path.isfile("youtube_alarm_videos.txt"):
 	print('Creating "youtube_alarm_videos.txt"...')
 	with open("youtube_alarm_videos.txt", "w") as alarm_file:
@@ -26,7 +26,7 @@ def check_alarm_input(alarm_time):
 			return True
 	return False
 
-# Get user input for the alarm time
+# What time does the user want to wake up?
 print("Set a time for the alarm (Ex. 06:30 or 18:30:00)")
 while True:
 	alarm_input = input(">> ")
@@ -67,5 +67,5 @@ print("Wake Up!")
 with open("youtube_alarm_videos.txt", "r") as alarm_file:
 	videos = alarm_file.readlines()
 
-# Open a random video from the list
+# Open Dr. Thomas personal Alarm Clock
 webbrowser.open(random.choice(videos))
