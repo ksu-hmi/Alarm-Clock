@@ -8,7 +8,7 @@ Project Roadmap
 
 #4 Build text file using the video URL with Python code
 
-#5 Build the rest of the Python code
+#5 Build the rest of the Python code (hours, seconds, print, etc)
 
 #6 Test the overall Python code
 
