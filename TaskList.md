@@ -1,13 +1,13 @@
 # Project Roadmap
 
-  # Phase 1
+  ## Phase 1
   - [x] Choose topic
   - [x] Research information
   - [x] Topic Write-up
   - [x] Set up Repository
   - [x] Get acclumated with GitHub
 
-  # Phase 2
+  ## Phase 2
   - [x] Build video in PowerPoint
 
   - [x] Upload video on YouTube
@@ -24,7 +24,7 @@
 
   - [x] Watch the video that is played when the alarm goes off
 
-  # Phase 3
+  ## Phase 3
   - [ ] Create the PowerPoint 
 
   - [ ] Present the PowerPoint along with the Python code, analysis and findings for this final project
