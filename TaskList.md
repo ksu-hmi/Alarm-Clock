@@ -2,7 +2,7 @@ Project Roadmap
 
 - [x] #1 Research information
 
-- [] #2 Build video in PowerPoint
+- [ ] #2 Build video in PowerPoint
 
 - [x] #3 Upload video on YouTube
 
@@ -18,6 +18,6 @@ Project Roadmap
 
 - [x] #9 Watch the video that is played when the alarm goes off
 
-- [] #10 Create the PowerPoint 
+- [ ] #10 Create the PowerPoint 
 
-- [] #11 Present the PowerPoint along with the Python code, analysis and findings for this final project 
+- [ ] #11 Present the PowerPoint along with the Python code, analysis and findings for this final project 
