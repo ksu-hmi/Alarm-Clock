@@ -25,6 +25,8 @@
   - [x] Watch the video that is played when the alarm goes off
 
   ## Phase 3
-  - [ ] Create the PowerPoint 
+  - [x] Test code for bugs
+  
+  - [x] Create the PowerPoint 
 
   - [ ] Present the PowerPoint along with the Python code, analysis and findings for this final project
