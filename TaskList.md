@@ -5,7 +5,7 @@
   - [x] Research information
   - [x] Topic Write-up
   - [x] Set up Repository
-  - [x] Get acclumated with GitHub
+  - [x] Get acclimated with GitHub
 
   ## Phase 2
   - [x] Build video in PowerPoint
