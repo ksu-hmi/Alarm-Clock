@@ -1,2 +1,4 @@
 # Alarm-Clock
-Having an alarm clock to yell your name or saying something that can wake you up will help anyone daily life and their timeliness.
+Are you still having a hard time waking up? Imagine how it would be if you could program your alarm clock to wake you up when you set the time by saying your name. Now, think about how many times you have missed work, class, an appointment or some type of shift due to oversleeping or not having proper time management. The alarm could have gone off but didn't get your attention or was not strong enough to wake you up from sleep or whatever task you were trying to complete. I thought about this idea because sometimes the buzzing and the generic beeping is not enough. I believe this new idea I have coded could improve the usage of an alarm clock. Having an alarm clock to yell your name or saying something that can wake you up will help anyone daily life and their timeliness.
+
+By: Fortune Onwuzuruike 
